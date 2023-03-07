@@ -30,7 +30,9 @@ const config = {
   skills: [
     'Dart',
     'Flutter',
+    'Keras',
     'Python',
+    'R',
     'Matlab',
   ],
   experiences: [
@@ -47,7 +49,7 @@ const config = {
       institution: 'Università degli studi di Padova',
       degree: "Master's degree - Bioengineering",
       from: '2020',
-      to: 'Present',
+      to: '2022',
     },
     {
       institution: 'Università degli Studi di Bergamo',
@@ -71,11 +73,11 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'halloween',
+    defaultTheme: 'default',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: true,
+    disableSwitch: false,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
