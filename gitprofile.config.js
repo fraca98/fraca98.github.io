@@ -39,8 +39,8 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Istituto Mario Negri',
-      position: 'Curricular internship - Biomedical image processing',
+      company: 'Mario Negri Institute for Pharmacological Research',
+      position: 'Curricular Internship - Biomedical Engineer - Image Processing',
       from: 'September 2019',
       to: 'January 2020',
       companyLink: 'https://www.marionegri.it/',
@@ -48,16 +48,16 @@ const config = {
   ],
   education: [
     {
-      institution: 'Università degli studi di Padova',
-      degree: "Master's degree - Bioengineering",
-      from: '2020',
-      to: '2022',
+      institution: 'University of Padua',
+      degree: "Master's degree - Bioengineering (Digital Health and Clinical Engineering)",
+      from: 'September 2020',
+      to: 'March 2023',
     },
     {
-      institution: 'Università degli Studi di Bergamo',
-      degree: "Bachelor's degree - Ingegneria delle tecnologie per la salute",
-      from: '2017',
-      to: '2020',
+      institution: 'University of Bergamo',
+      degree: "Bachelor's degree - Engineering of Health Technologies",
+      from: 'August 2017',
+      to: 'Spetmber 2020',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
