@@ -20,7 +20,7 @@ const config = {
     medium: '',
     dev: '',
     stackoverflow: '', // format: userid/username
-    website: 'https://fraca98.github.io',
+    website: '', // https://fraca98.github.io
     phone: '',
     email: 'luca.fracassetti98@gmail.com',
   },
@@ -29,11 +29,13 @@ const config = {
   },
   skills: [
     'Dart',
+    'Firebase',
     'Flutter',
-    'Keras',
-    'Python',
-    'R',
+    'Git',
     'Matlab',
+    'Python',
+    'SQLite',
+    'Tensorflow',
   ],
   experiences: [
     {
