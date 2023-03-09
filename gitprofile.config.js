@@ -22,7 +22,7 @@ const config = {
     stackoverflow: '', // format: userid/username
     website: 'https://fraca98.github.io',
     phone: '',
-    email: 'luca.fraca1998@gmail.com',
+    email: 'luca.fracassetti98@gmail.com',
   },
   resume: {
     fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
