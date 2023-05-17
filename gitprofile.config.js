@@ -57,7 +57,7 @@ const config = {
       institution: 'University of Bergamo',
       degree: "Bachelor's degree - Engineering of Health Technologies",
       from: 'August 2017',
-      to: 'Spetmber 2020',
+      to: 'Septmber 2020',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
